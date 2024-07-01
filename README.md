@@ -1,4 +1,4 @@
-#Module 8 Journal
+
 The Gaming Room had requested a web-based version of the game “Draw It or Lose It” that is able to be played on multiple platforms. The app is originally on Android, and it involves gameplay with teams where users guess what is being drawn from a set of stock images. Requirements for the new game include support for multiple teams and players, unique game and team names, and ensuring that only one instance of each game exists at any time.
 Within the documentation, I had outlined the requirements and constraints for expanding the game to other platforms. By doing this I was able to outline recommendations as to what I thought would best fit for expanding the app. 
 Working on the design document offered an understanding of what was important for expanding the app. It helped address all aspects of the software, from user interface to backend support. Using the document to plan had provided structure to guide through the process of expansion, reducing any errors or issues to make the app work well between the other platforms.
